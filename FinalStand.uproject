@@ -3,6 +3,13 @@
 	"EngineAssociation": "{94195D99-B4E1-43B8-BC8B-275C41E3FA76}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "FinalStand",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",

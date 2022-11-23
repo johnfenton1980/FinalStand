@@ -1,0 +1,27 @@
+[
+	{
+		"file": "/home/john/256GBDrive/Unreal Projects/FinalStand/Source/FinalStand/FinalStand.Build.cs",
+		"command": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/john/256GBDrive/Unreal Projects/FinalStand/.vscode/compileCommands_FinalStand/FinalStand.201.rsp'",
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/Unreal Projects/FinalStand/Source/FinalStand/FinalStand.cpp",
+		"command": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/john/256GBDrive/Unreal Projects/FinalStand/.vscode/compileCommands_FinalStand/FinalStand.201.rsp'",
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/Unreal Projects/FinalStand/Source/FinalStand/FinalStand.h",
+		"command": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/john/256GBDrive/Unreal Projects/FinalStand/.vscode/compileCommands_FinalStand/FinalStand.201.rsp'",
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/Unreal Projects/FinalStand/Source/FinalStand/MyClass.cpp",
+		"command": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/john/256GBDrive/Unreal Projects/FinalStand/.vscode/compileCommands_FinalStand/FinalStand.201.rsp'",
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/Unreal Projects/FinalStand/Source/FinalStand/MyClass.h",
+		"command": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/john/256GBDrive/Unreal Projects/FinalStand/.vscode/compileCommands_FinalStand/FinalStand.201.rsp'",
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	}
+]

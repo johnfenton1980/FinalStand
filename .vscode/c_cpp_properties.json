@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "FinalStandEditor Editor Linux Development (FinalStand)",
+            "intelliSenseMode": "clang-x64",
+            "compileCommands": "/home/john/256GBDrive/Unreal Projects/FinalStand/.vscode/compileCommands_FinalStand.json",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17"
+        },
+        {
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64",
+            "compileCommands": "/home/john/256GBDrive/Unreal Projects/FinalStand/.vscode/compileCommands_Default.json",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17"
+        }
+    ],
+    "version": 4
+}
