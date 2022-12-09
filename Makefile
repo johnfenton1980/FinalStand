@@ -25,6 +25,11 @@ TARGETS = \
 	BuildPatchTool-Linux-Test  \
 	BuildPatchTool-Linux-Shipping  \
 	BuildPatchTool \
+	ChaosUserDataPTTests-Linux-Debug  \
+	ChaosUserDataPTTests-Linux-DebugGame  \
+	ChaosUserDataPTTests-Linux-Test  \
+	ChaosUserDataPTTests-Linux-Shipping  \
+	ChaosUserDataPTTests \
 	ChaosVisualDebugger-Linux-Debug  \
 	ChaosVisualDebugger-Linux-DebugGame  \
 	ChaosVisualDebugger-Linux-Test  \
@@ -225,11 +230,26 @@ TARGETS = \
 	LowLevelTests-Linux-Test  \
 	LowLevelTests-Linux-Shipping  \
 	LowLevelTests \
+	ReplicationSystemTest-Linux-Debug  \
+	ReplicationSystemTest-Linux-DebugGame  \
+	ReplicationSystemTest-Linux-Test  \
+	ReplicationSystemTest-Linux-Shipping  \
+	ReplicationSystemTest \
 	ShaderCompileWorker-Linux-Debug  \
 	ShaderCompileWorker-Linux-DebugGame  \
 	ShaderCompileWorker-Linux-Test  \
 	ShaderCompileWorker-Linux-Shipping  \
 	ShaderCompileWorker \
+	DotNetPerforceLib-Linux-Debug  \
+	DotNetPerforceLib-Linux-DebugGame  \
+	DotNetPerforceLib-Linux-Test  \
+	DotNetPerforceLib-Linux-Shipping  \
+	DotNetPerforceLib \
+	SlateUGS-Linux-Debug  \
+	SlateUGS-Linux-DebugGame  \
+	SlateUGS-Linux-Test  \
+	SlateUGS-Linux-Shipping  \
+	SlateUGS \
 	SlateViewer-Linux-Debug  \
 	SlateViewer-Linux-DebugGame  \
 	SlateViewer-Linux-Test  \
@@ -240,16 +260,16 @@ TARGETS = \
 	SwitchboardListener-Linux-Test  \
 	SwitchboardListener-Linux-Shipping  \
 	SwitchboardListener \
+	SymsLibDump-Linux-Debug  \
+	SymsLibDump-Linux-DebugGame  \
+	SymsLibDump-Linux-Test  \
+	SymsLibDump-Linux-Shipping  \
+	SymsLibDump \
 	TestPAL-Linux-Debug  \
 	TestPAL-Linux-DebugGame  \
 	TestPAL-Linux-Test  \
 	TestPAL-Linux-Shipping  \
 	TestPAL \
-	TextureShareSDK-Linux-Debug  \
-	TextureShareSDK-Linux-DebugGame  \
-	TextureShareSDK-Linux-Test  \
-	TextureShareSDK-Linux-Shipping  \
-	TextureShareSDK \
 	UnrealFrontend-Linux-Debug  \
 	UnrealFrontend-Linux-DebugGame  \
 	UnrealFrontend-Linux-Test  \
@@ -275,11 +295,21 @@ TARGETS = \
 	UnrealMultiUserServer-Linux-Test  \
 	UnrealMultiUserServer-Linux-Shipping  \
 	UnrealMultiUserServer \
+	UnrealMultiUserSlateServer-Linux-Debug  \
+	UnrealMultiUserSlateServer-Linux-DebugGame  \
+	UnrealMultiUserSlateServer-Linux-Test  \
+	UnrealMultiUserSlateServer-Linux-Shipping  \
+	UnrealMultiUserSlateServer \
 	UnrealObjectPtrTool-Linux-Debug  \
 	UnrealObjectPtrTool-Linux-DebugGame  \
 	UnrealObjectPtrTool-Linux-Test  \
 	UnrealObjectPtrTool-Linux-Shipping  \
 	UnrealObjectPtrTool \
+	UnrealPackageTool-Linux-Debug  \
+	UnrealPackageTool-Linux-DebugGame  \
+	UnrealPackageTool-Linux-Test  \
+	UnrealPackageTool-Linux-Shipping  \
+	UnrealPackageTool \
 	UnrealPak-Linux-Debug  \
 	UnrealPak-Linux-DebugGame  \
 	UnrealPak-Linux-Test  \
@@ -295,6 +325,21 @@ TARGETS = \
 	UnrealVersionSelector-Linux-Test  \
 	UnrealVersionSelector-Linux-Shipping  \
 	UnrealVersionSelector \
+	UnrealVirtualizationTool-Linux-Debug  \
+	UnrealVirtualizationTool-Linux-DebugGame  \
+	UnrealVirtualizationTool-Linux-Test  \
+	UnrealVirtualizationTool-Linux-Shipping  \
+	UnrealVirtualizationTool \
+	Unsync-Linux-Debug  \
+	Unsync-Linux-DebugGame  \
+	Unsync-Linux-Test  \
+	Unsync-Linux-Shipping  \
+	Unsync \
+	TextureShareSDK-Linux-Debug  \
+	TextureShareSDK-Linux-DebugGame  \
+	TextureShareSDK-Linux-Test  \
+	TextureShareSDK-Linux-Shipping  \
+	TextureShareSDK \
 	BootstrapPackagedGame-Linux-Debug  \
 	BootstrapPackagedGame-Linux-DebugGame  \
 	BootstrapPackagedGame-Linux-Test  \
@@ -338,15 +383,15 @@ TARGETS = \
 	configure
 
 BUILD = bash "$(UNREALROOTPATH)/Engine/Build/BatchFiles/Linux/Build.sh"
-PROJECTBUILD = bash "$(UNREALROOTPATH)/Engine/Build/BatchFiles/Linux/RunMono.sh" "$(UNREALROOTPATH)/Engine/Binaries/DotNET/UnrealBuildTool.exe"
+PROJECTBUILD = "$(UNREALROOTPATH)/Engine/Binaries/ThirdParty/DotNet/6.0.302/linux/dotnet" "$(UNREALROOTPATH)/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.dll"
 
 all: StandardSet
 
 RequiredTools: CrashReportClient-Linux-Shipping CrashReportClientEditor-Linux-Shipping ShaderCompileWorker UnrealLightmass EpicWebHelper-Linux-Shipping
 
-StandardSet: RequiredTools UnrealFrontend UnrealEditor UnrealInsights
+StandardSet: RequiredTools UnrealFrontend FinalStandEditor UnrealInsights
 
-DebugSet: RequiredTools UnrealFrontend-Linux-Debug UnrealEditor-Linux-Debug
+DebugSet: RequiredTools UnrealFrontend-Linux-Debug FinalStandEditor-Linux-Debug
 
 
 BaseTextureBuildWorker-Linux-Debug:
@@ -408,6 +453,21 @@ BuildPatchTool-Linux-Shipping:
 
 BuildPatchTool:
 	 $(BUILD) BuildPatchTool Linux Development  $(ARGS)
+
+ChaosUserDataPTTests-Linux-Debug:
+	 $(BUILD) ChaosUserDataPTTests Linux Debug  $(ARGS)
+
+ChaosUserDataPTTests-Linux-DebugGame:
+	 $(BUILD) ChaosUserDataPTTests Linux DebugGame  $(ARGS)
+
+ChaosUserDataPTTests-Linux-Test:
+	 $(BUILD) ChaosUserDataPTTests Linux Test  $(ARGS)
+
+ChaosUserDataPTTests-Linux-Shipping:
+	 $(BUILD) ChaosUserDataPTTests Linux Shipping  $(ARGS)
+
+ChaosUserDataPTTests:
+	 $(BUILD) ChaosUserDataPTTests Linux Development  $(ARGS)
 
 ChaosVisualDebugger-Linux-Debug:
 	 $(BUILD) ChaosVisualDebugger Linux Debug  $(ARGS)
@@ -1009,6 +1069,21 @@ LowLevelTests-Linux-Shipping:
 LowLevelTests:
 	 $(BUILD) LowLevelTests Linux Development  $(ARGS)
 
+ReplicationSystemTest-Linux-Debug:
+	 $(BUILD) ReplicationSystemTest Linux Debug  $(ARGS)
+
+ReplicationSystemTest-Linux-DebugGame:
+	 $(BUILD) ReplicationSystemTest Linux DebugGame  $(ARGS)
+
+ReplicationSystemTest-Linux-Test:
+	 $(BUILD) ReplicationSystemTest Linux Test  $(ARGS)
+
+ReplicationSystemTest-Linux-Shipping:
+	 $(BUILD) ReplicationSystemTest Linux Shipping  $(ARGS)
+
+ReplicationSystemTest:
+	 $(BUILD) ReplicationSystemTest Linux Development  $(ARGS)
+
 ShaderCompileWorker-Linux-Debug:
 	 $(BUILD) ShaderCompileWorker Linux Debug  $(ARGS)
 
@@ -1023,6 +1098,36 @@ ShaderCompileWorker-Linux-Shipping:
 
 ShaderCompileWorker:
 	 $(BUILD) ShaderCompileWorker Linux Development  $(ARGS)
+
+DotNetPerforceLib-Linux-Debug:
+	 $(BUILD) DotNetPerforceLib Linux Debug  $(ARGS)
+
+DotNetPerforceLib-Linux-DebugGame:
+	 $(BUILD) DotNetPerforceLib Linux DebugGame  $(ARGS)
+
+DotNetPerforceLib-Linux-Test:
+	 $(BUILD) DotNetPerforceLib Linux Test  $(ARGS)
+
+DotNetPerforceLib-Linux-Shipping:
+	 $(BUILD) DotNetPerforceLib Linux Shipping  $(ARGS)
+
+DotNetPerforceLib:
+	 $(BUILD) DotNetPerforceLib Linux Development  $(ARGS)
+
+SlateUGS-Linux-Debug:
+	 $(BUILD) SlateUGS Linux Debug  $(ARGS)
+
+SlateUGS-Linux-DebugGame:
+	 $(BUILD) SlateUGS Linux DebugGame  $(ARGS)
+
+SlateUGS-Linux-Test:
+	 $(BUILD) SlateUGS Linux Test  $(ARGS)
+
+SlateUGS-Linux-Shipping:
+	 $(BUILD) SlateUGS Linux Shipping  $(ARGS)
+
+SlateUGS:
+	 $(BUILD) SlateUGS Linux Development  $(ARGS)
 
 SlateViewer-Linux-Debug:
 	 $(BUILD) SlateViewer Linux Debug  $(ARGS)
@@ -1054,6 +1159,21 @@ SwitchboardListener-Linux-Shipping:
 SwitchboardListener:
 	 $(BUILD) SwitchboardListener Linux Development  $(ARGS)
 
+SymsLibDump-Linux-Debug:
+	 $(BUILD) SymsLibDump Linux Debug  $(ARGS)
+
+SymsLibDump-Linux-DebugGame:
+	 $(BUILD) SymsLibDump Linux DebugGame  $(ARGS)
+
+SymsLibDump-Linux-Test:
+	 $(BUILD) SymsLibDump Linux Test  $(ARGS)
+
+SymsLibDump-Linux-Shipping:
+	 $(BUILD) SymsLibDump Linux Shipping  $(ARGS)
+
+SymsLibDump:
+	 $(BUILD) SymsLibDump Linux Development  $(ARGS)
+
 TestPAL-Linux-Debug:
 	 $(BUILD) TestPAL Linux Debug  $(ARGS)
 
@@ -1068,21 +1188,6 @@ TestPAL-Linux-Shipping:
 
 TestPAL:
 	 $(BUILD) TestPAL Linux Development  $(ARGS)
-
-TextureShareSDK-Linux-Debug:
-	 $(BUILD) TextureShareSDK Linux Debug  $(ARGS)
-
-TextureShareSDK-Linux-DebugGame:
-	 $(BUILD) TextureShareSDK Linux DebugGame  $(ARGS)
-
-TextureShareSDK-Linux-Test:
-	 $(BUILD) TextureShareSDK Linux Test  $(ARGS)
-
-TextureShareSDK-Linux-Shipping:
-	 $(BUILD) TextureShareSDK Linux Shipping  $(ARGS)
-
-TextureShareSDK:
-	 $(BUILD) TextureShareSDK Linux Development  $(ARGS)
 
 UnrealFrontend-Linux-Debug:
 	 $(BUILD) UnrealFrontend Linux Debug  $(ARGS)
@@ -1159,6 +1264,21 @@ UnrealMultiUserServer-Linux-Shipping:
 UnrealMultiUserServer:
 	 $(BUILD) UnrealMultiUserServer Linux Development  $(ARGS)
 
+UnrealMultiUserSlateServer-Linux-Debug:
+	 $(BUILD) UnrealMultiUserSlateServer Linux Debug  $(ARGS)
+
+UnrealMultiUserSlateServer-Linux-DebugGame:
+	 $(BUILD) UnrealMultiUserSlateServer Linux DebugGame  $(ARGS)
+
+UnrealMultiUserSlateServer-Linux-Test:
+	 $(BUILD) UnrealMultiUserSlateServer Linux Test  $(ARGS)
+
+UnrealMultiUserSlateServer-Linux-Shipping:
+	 $(BUILD) UnrealMultiUserSlateServer Linux Shipping  $(ARGS)
+
+UnrealMultiUserSlateServer:
+	 $(BUILD) UnrealMultiUserSlateServer Linux Development  $(ARGS)
+
 UnrealObjectPtrTool-Linux-Debug:
 	 $(BUILD) UnrealObjectPtrTool Linux Debug  $(ARGS)
 
@@ -1173,6 +1293,21 @@ UnrealObjectPtrTool-Linux-Shipping:
 
 UnrealObjectPtrTool:
 	 $(BUILD) UnrealObjectPtrTool Linux Development  $(ARGS)
+
+UnrealPackageTool-Linux-Debug:
+	 $(BUILD) UnrealPackageTool Linux Debug  $(ARGS)
+
+UnrealPackageTool-Linux-DebugGame:
+	 $(BUILD) UnrealPackageTool Linux DebugGame  $(ARGS)
+
+UnrealPackageTool-Linux-Test:
+	 $(BUILD) UnrealPackageTool Linux Test  $(ARGS)
+
+UnrealPackageTool-Linux-Shipping:
+	 $(BUILD) UnrealPackageTool Linux Shipping  $(ARGS)
+
+UnrealPackageTool:
+	 $(BUILD) UnrealPackageTool Linux Development  $(ARGS)
 
 UnrealPak-Linux-Debug:
 	 $(BUILD) UnrealPak Linux Debug  $(ARGS)
@@ -1218,6 +1353,51 @@ UnrealVersionSelector-Linux-Shipping:
 
 UnrealVersionSelector:
 	 $(BUILD) UnrealVersionSelector Linux Development  $(ARGS)
+
+UnrealVirtualizationTool-Linux-Debug:
+	 $(BUILD) UnrealVirtualizationTool Linux Debug  $(ARGS)
+
+UnrealVirtualizationTool-Linux-DebugGame:
+	 $(BUILD) UnrealVirtualizationTool Linux DebugGame  $(ARGS)
+
+UnrealVirtualizationTool-Linux-Test:
+	 $(BUILD) UnrealVirtualizationTool Linux Test  $(ARGS)
+
+UnrealVirtualizationTool-Linux-Shipping:
+	 $(BUILD) UnrealVirtualizationTool Linux Shipping  $(ARGS)
+
+UnrealVirtualizationTool:
+	 $(BUILD) UnrealVirtualizationTool Linux Development  $(ARGS)
+
+Unsync-Linux-Debug:
+	 $(BUILD) Unsync Linux Debug  $(ARGS)
+
+Unsync-Linux-DebugGame:
+	 $(BUILD) Unsync Linux DebugGame  $(ARGS)
+
+Unsync-Linux-Test:
+	 $(BUILD) Unsync Linux Test  $(ARGS)
+
+Unsync-Linux-Shipping:
+	 $(BUILD) Unsync Linux Shipping  $(ARGS)
+
+Unsync:
+	 $(BUILD) Unsync Linux Development  $(ARGS)
+
+TextureShareSDK-Linux-Debug:
+	 $(BUILD) TextureShareSDK Linux Debug  $(ARGS)
+
+TextureShareSDK-Linux-DebugGame:
+	 $(BUILD) TextureShareSDK Linux DebugGame  $(ARGS)
+
+TextureShareSDK-Linux-Test:
+	 $(BUILD) TextureShareSDK Linux Test  $(ARGS)
+
+TextureShareSDK-Linux-Shipping:
+	 $(BUILD) TextureShareSDK Linux Shipping  $(ARGS)
+
+TextureShareSDK:
+	 $(BUILD) TextureShareSDK Linux Development  $(ARGS)
 
 BootstrapPackagedGame-Linux-Debug:
 	 $(BUILD) BootstrapPackagedGame Linux Debug  $(ARGS)

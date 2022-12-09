@@ -104,7 +104,7 @@
 			"name": "Generate Project Files",
 			"type": "coreclr",
 			"request": "launch",
-			"program": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool",
+			"program": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Build/BatchFiles/RunUBT.bat",
 			"args": [
 				"-projectfiles",
 				"-vscode",
