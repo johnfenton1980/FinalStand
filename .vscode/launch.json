@@ -1,0 +1,181 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch FinalStand (Debug)",
+			"request": "launch",
+			"program": "/home/john/256GBDrive/Unreal Projects/FinalStand/Binaries/Linux/FinalStand-Linux-Debug",
+			"preLaunchTask": "FinalStand Linux Debug Build",
+			"args": [
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Launch FinalStand (DebugGame)",
+			"request": "launch",
+			"program": "/home/john/256GBDrive/Unreal Projects/FinalStand/Binaries/Linux/FinalStand-Linux-DebugGame",
+			"preLaunchTask": "FinalStand Linux DebugGame Build",
+			"args": [
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Launch FinalStand (Development)",
+			"request": "launch",
+			"program": "/home/john/256GBDrive/Unreal Projects/FinalStand/Binaries/Linux/FinalStand",
+			"preLaunchTask": "FinalStand Linux Development Build",
+			"args": [
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Launch FinalStand (Test)",
+			"request": "launch",
+			"program": "/home/john/256GBDrive/Unreal Projects/FinalStand/Binaries/Linux/FinalStand-Linux-Test",
+			"preLaunchTask": "FinalStand Linux Test Build",
+			"args": [
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Launch FinalStand (Shipping)",
+			"request": "launch",
+			"program": "/home/john/256GBDrive/Unreal Projects/FinalStand/Binaries/Linux/FinalStand-Linux-Shipping",
+			"preLaunchTask": "FinalStand Linux Shipping Build",
+			"args": [
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Launch FinalStandEditor (Debug)",
+			"request": "launch",
+			"program": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Binaries/Linux/UnrealEditor-Linux-Debug",
+			"preLaunchTask": "FinalStandEditor Linux Debug Build",
+			"args": [
+				"/home/john/256GBDrive/Unreal Projects/FinalStand/FinalStand.uproject"
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Launch FinalStandEditor (DebugGame)",
+			"request": "launch",
+			"program": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Binaries/Linux/UnrealEditor-Linux-DebugGame",
+			"preLaunchTask": "FinalStandEditor Linux DebugGame Build",
+			"args": [
+				"/home/john/256GBDrive/Unreal Projects/FinalStand/FinalStand.uproject"
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Launch FinalStandEditor (Development)",
+			"request": "launch",
+			"program": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Binaries/Linux/UnrealEditor",
+			"preLaunchTask": "FinalStandEditor Linux Development Build",
+			"args": [
+				"/home/john/256GBDrive/Unreal Projects/FinalStand/FinalStand.uproject"
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Launch FinalStandServer (Debug)",
+			"request": "launch",
+			"program": "/home/john/256GBDrive/Unreal Projects/FinalStand/Binaries/Linux/FinalStandServer-Linux-Debug",
+			"preLaunchTask": "FinalStandServer Linux Debug Build",
+			"args": [
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Launch FinalStandServer (DebugGame)",
+			"request": "launch",
+			"program": "/home/john/256GBDrive/Unreal Projects/FinalStand/Binaries/Linux/FinalStandServer-Linux-DebugGame",
+			"preLaunchTask": "FinalStandServer Linux DebugGame Build",
+			"args": [
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Launch FinalStandServer (Development)",
+			"request": "launch",
+			"program": "/home/john/256GBDrive/Unreal Projects/FinalStand/Binaries/Linux/FinalStandServer",
+			"preLaunchTask": "FinalStandServer Linux Development Build",
+			"args": [
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Launch FinalStandServer (Test)",
+			"request": "launch",
+			"program": "/home/john/256GBDrive/Unreal Projects/FinalStand/Binaries/Linux/FinalStandServer-Linux-Test",
+			"preLaunchTask": "FinalStandServer Linux Test Build",
+			"args": [
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Launch FinalStandServer (Shipping)",
+			"request": "launch",
+			"program": "/home/john/256GBDrive/Unreal Projects/FinalStand/Binaries/Linux/FinalStandServer-Linux-Shipping",
+			"preLaunchTask": "FinalStandServer Linux Shipping Build",
+			"args": [
+			],
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine",
+			"type": "cppdbg",
+			"visualizerFile": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+			"showDisplayString": true
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Build/BatchFiles/RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=/home/john/256GBDrive/Unreal Projects/FinalStand/FinalStand.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "internalConsole",
+			"internalConsoleOptions": "openOnSessionStart",
+			"stopAtEntry": false,
+			"cwd": "/home/john/1TBDrive/unreal/UnrealEngine"
+		}
+	]
+}

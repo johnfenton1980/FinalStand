@@ -1,0 +1,858 @@
+[
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/OWSPlugin.Build.cs",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWS2API.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSAIController.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSAbilityActor.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSAbilitySystemBlueprintLibrary.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSAbilityTask_PlayMontageWait.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSAbilityTask_SpawnProjectile.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSAbilityTask_WaitCastTime.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSAbilityTask_WaitTargetData.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSAdvancedProjectile.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSAnimInstance.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSAttributeSet.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSBasicAttributeSet.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSCharacter.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSCharacterBase.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSCharacterMovementComponent.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSCharacterWithAbilities.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSChatManager.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSDontRepToOwnerActor.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSEnvironmentAbilityActor.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSFloorTileSpawner.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSFogVolume.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSGameInstance.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSGameMode.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSGameModeComponent.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSGameplayAbility.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSGameplayAbilityTargetAct_Cone.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSGameplayAbilityTargetActor.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSGameplayAbilityTargetActor_Ln.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSGameplayAbilityTargetActor_P.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSGameplayAbilityTargetActor_Tr.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSGameplayAbilityTargetDataFilter.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSGameplayAbilityWorldReticle.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSHUD.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSInventory.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSInventoryItem.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSInventoryItemStack.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSLoginWidget.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSModMagnitudeCalculation.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSPlayerController.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSPlayerControllerComponent.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSPlayerState.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSPlugin.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSProjectileMovementComponent.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSReplicationGraph.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSTask_ApplyRootMotion_Base.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSTask_RootMotionConstantForce.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Private/OWSTravelToMapActor.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWS2API.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSAIController.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSAbilityActor.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSAbilitySystemBlueprintLibrary.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSAbilityTask_PlayMontageWait.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSAbilityTask_SpawnProjectile.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSAbilityTask_WaitCastTime.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSAbilityTask_WaitTargetData.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSAdvancedProjectile.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSAnimInstance.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSAttributeSet.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSAttributeSet.i",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSBasicAttributeSet.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSCharacter.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSCharacterBase.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSCharacterMovementComponent.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSCharacterWithAbilities.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSChatManager.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSDontRepToOwnerActor.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSEnvironmentAbilityActor.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSFloorTileSpawner.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSFogVolume.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSGameInstance.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSGameMode.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSGameModeComponent.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSGameplayAbility.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSGameplayAbilityTargetAct_Cone.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSGameplayAbilityTargetActor.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSGameplayAbilityTargetActor_Ln.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSGameplayAbilityTargetActor_P.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSGameplayAbilityTargetActor_Tr.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSGameplayAbilityTargetDataFilter.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSGameplayAbilityWorldReticle.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSHUD.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSInventory.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSInventoryItem.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSInventoryItemStack.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSLoginWidget.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSModMagnitudeCalculation.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSPlayerController.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSPlayerControllerComponent.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSPlayerState.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSPlugin.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSProjectileMovementComponent.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSReplicationGraph.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSTask_ApplyRootMotion_Base.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSTask_RootMotionConstantForce.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Plugins/OWSPlugin/Source/OWSPlugin/Public/OWSTravelToMapActor.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OWSPlugin.18.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Source/OpenWorldStarter/OpenWorldStarter.Build.cs",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OpenWorldStarter.245.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Source/OpenWorldStarter/OpenWorldStarter.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OpenWorldStarter.245.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Source/OpenWorldStarter/OpenWorldStarter.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OpenWorldStarter.245.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Source/OpenWorldStarter/Private/MyBlueprintFunctionLibrary.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OpenWorldStarter.245.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Source/OpenWorldStarter/Private/MyEngineSubsystem.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OpenWorldStarter.245.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Source/OpenWorldStarter/Private/MyMMOCharacterWithAbilities.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OpenWorldStarter.245.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Source/OpenWorldStarter/Private/OWSAPI.cpp",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OpenWorldStarter.245.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Source/OpenWorldStarter/Public/MyBlueprintFunctionLibrary.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OpenWorldStarter.245.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Source/OpenWorldStarter/Public/MyEngineSubsystem.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OpenWorldStarter.245.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Source/OpenWorldStarter/Public/MyMMOCharacterWithAbilities.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OpenWorldStarter.245.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/Source/OpenWorldStarter/Public/OWSAPI.h",
+		"arguments": [
+			"/home/john/1TBDrive/unreal/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/john/256GBDrive/UnrealProjects/OpenWorldStarterPluginUE5/.vscode/compileCommands_OpenWorldStarter/OpenWorldStarter.245.rsp"
+		],
+		"directory": "/home/john/1TBDrive/unreal/UnrealEngine/Engine/Source"
+	}
+]

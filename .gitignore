@@ -1,3 +1,10 @@
+# OWS
+OWSInstanceLauncher/*
+Plugins/OWSPlugin/*
+
+# Market Place Assets
+Content/Market/*
+
 # Visual Studio 2015 user specific files
 .vs/
 
