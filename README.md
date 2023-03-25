@@ -35,5 +35,5 @@ Here are the Market place items used. Some are free, some paid for :
 
 *   Paragon: Rampage
 
-*   Sci-Fi Space full GUI / UI Kit--
+*   Sci-Fi Space full GUI / UI Kit-
 
